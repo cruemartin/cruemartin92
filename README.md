@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cruemartin92
-- 👀 I’m interested in web development, graphic, and embedded programming.
+- 👀 I’m interested in web development, graphics, and embedded programming.
 - 🌱 I’m currently learning 2d graphics programing in pygame.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 Shoot me a message.
